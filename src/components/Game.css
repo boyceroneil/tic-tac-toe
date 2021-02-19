@@ -27,21 +27,6 @@
 .App-link {
   color: #61dafb;
 }
-.body{
-  background-color: blueviolet;
-}
-.footer{
-  background-color: blueviolet;
-}
-.home{
-background-color: aquamarine;
-}
-.Game{
-background-color:aquamarine;
-}
-.navigation{
-  background-color:aquamarine;
-}
 .square1{
   background: #fff;
   border: 1px solid #999;
@@ -55,9 +40,6 @@ background-color:aquamarine;
   padding: 0;
   text-align: center;
   width: 100px;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
 }
 
 .row::after{
